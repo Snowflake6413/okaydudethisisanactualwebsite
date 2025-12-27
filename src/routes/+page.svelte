@@ -20,8 +20,10 @@
 
 <div class=quickinfo>
 <p>hello! welcome to my website! my name is {name}! i am a 15 year old male and i'm a he/him</p>
-<p>im a proud Hack Clubber.</p>
-<p>i do alot of stuff!</p>
+<p>im a proud Hack Clubber. Hack Club is a online club that is for high schoolers who are interested in coding!</p>
+<p>i like python. ALWAYS. i like to make slack bots when im not tired.</p>
+<p>I want to learn new languages like Svelte (which im currently learning rn!), Kotlin, more python, more html, css and JS</p>
+<p>learning a new language is hard! because they is paywalls to learn! (are we deaduzz) :(</p>
 </div>
 
 <div class=buttons>
