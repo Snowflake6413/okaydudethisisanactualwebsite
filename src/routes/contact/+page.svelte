@@ -15,7 +15,7 @@
     }
 </style>
 
-<h1 class="maintext">you can contact <s>stalk me</s> on these platforms</h1>
+<h1 class="maintext">you can contact <s>stalk me</s> on these platforms ;)</h1>
 
 <div class="NiceContainerforyouricons">
 <a href="https://hackclub.enterprise.slack.com/team/U09PHG7RLGG" target="_blank">
