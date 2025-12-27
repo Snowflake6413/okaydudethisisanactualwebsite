@@ -1,7 +1,7 @@
 <script>
     let name = 'alexander';
 </script>
-
+<title>alexander's site</title>
 <style>
     :global(body){
         background-color: #7BC4C4;
@@ -25,13 +25,13 @@
     }
 </style>
 
-
 <div class=quickinfo>
 <p>hello! welcome to my website! my name is {name}! i am a 15 year old male and i'm a he/him</p>
 <p>im a proud Hack Clubber. Hack Club is a online club that is for high schoolers who are interested in coding!</p>
 <p>i like python. ALWAYS. i like to make slack bots when im not tired.</p>
-<p>I want to learn new languages like Svelte (which im currently learning rn!), Kotlin, more python, more html, css and JS</p>
+<p>I want to learn new languages like Svelte, Kotlin, more python, more html, css and JS</p>
 <p>learning a new language is hard! because they is paywalls to learn! (are we deaduzz) :(</p>
+<p> i know my website is sloppy but it's better than my regular boba drop's website, right? :3</p>
 </div>
 
 <div class=hackatime>

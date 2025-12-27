@@ -9,9 +9,12 @@
 <footer>
 	<nav>
 		<a href="/">Home</a>
-		<a href="/contact">Contact</a>
 		<a href="/guestbook">Guestbook</a>
 	</nav>
+
+	<div class=aga>
+			<h1>the site of alexander :3 </h1>
+	</div>
 
 	<div class="social">
 		<a href="https://hackclub.enterprise.slack.com/team/U09PHG7RLGG">
@@ -19,6 +22,9 @@
 		</a>
 		<a href="/session">
 		<Icon icon="simple-icons:session" width="24" height="48"/>
+		</a>
+		<a href="https://github.com/Snowflake6413">
+		<Icon icon="mdi:github" width="24" height="48" />
 		</a>
 	</div>
 </footer>
@@ -41,6 +47,10 @@
 		display:flex;
 		gap: 1rem;
 		margin-left: auto;
+	}
+	.aga{
+		text-align: center;
+		margin: auto;
 	}
 </style>
 
