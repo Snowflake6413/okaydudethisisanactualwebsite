@@ -66,8 +66,6 @@
 	}
 	.quickinfo {
 		text-align: left;
-	}
-	.quickinfo {
 		border: 1px solid #333;
 		padding: 20px;
 	}
