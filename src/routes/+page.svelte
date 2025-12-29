@@ -72,6 +72,7 @@
 		gap: 1em;
 		flex-wrap: wrap;
 		padding: 0 1em;
+		margin-top: 2em;
 	}
 	.buttons img {
 		min-width: 88px;
