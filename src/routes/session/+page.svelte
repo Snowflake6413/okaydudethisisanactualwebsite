@@ -1,7 +1,7 @@
 <title>alexander's site</title>
 
 <div class="sessionqr">
-	<title>Session Contact</title>
+	<h1>Session Contact</h1>
 	<p>
 		Since I cannot share a link to my Session link, here is a QR code that you can scan to chat with
 		me! :3
