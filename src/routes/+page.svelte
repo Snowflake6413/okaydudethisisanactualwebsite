@@ -29,7 +29,7 @@
 	<a href="https://bitwarden.com">
 		<img src="https://88x31.nl/gifs/bitwarden.gif" alt="bitwarden is cool" height="31" width="88" />
 	</a>
-	<a href="http://youtu.be/xvFZjo5PgG0">
+	<a href="https://hack.club/dj9up">
 		<img src="https://88x31.nl/gifs/brothings.gif" alt="Wtf is that yaoi" height="31" width="88" />
 	</a>
 	<a href="https://hackclub.com">
@@ -41,7 +41,7 @@
 		/>
 	</a>
 	<img src="https://88x31.datakra.sh/img/random/ok.gif" alt="mmm OK" />
-	<a href="https://examply.com">
+	<a href="https://areallyawesomeusername.me">
 		<img
 			src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0796785b27d2838f_button__3_.gif"
 			alt="me!"
