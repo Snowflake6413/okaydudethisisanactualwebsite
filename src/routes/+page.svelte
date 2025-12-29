@@ -41,7 +41,7 @@
 		/>
 	</a>
 	<img src="https://88x31.datakra.sh/img/random/ok.gif" alt="mmm OK" />
-	<a href="https://areallyawesomeusername.me/">
+	<a href="https://areallyawesomeusername.me">
 		<img
 			src="https://hc-cdn.hel1.your-objectstorage.com/s/v3/0796785b27d2838f_button__3_.gif"
 			alt="me!"
